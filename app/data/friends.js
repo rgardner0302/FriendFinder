@@ -4,7 +4,7 @@
 var friendArray = [
 {
   "name":"Michael Jordan",
-  "photo":"https://i0.wp.com/gardenworld.com.au/files/2013/03/petunia-bowl.jpg",
+  "photo":"http://media.gettyimages.com/photos/michael-jordan-of-the-chicago-bulls-dunks-against-jeff-malone-of-the-picture-id52298709?s=612x612",
   "scores":[
     "2",
     "5",
@@ -20,7 +20,7 @@ var friendArray = [
 },
 {
   "name":"Ty Detmer",
-  "photo":"http://vignette2.wikia.nocookie.net/hitchhikersguidetoearth/images/d/d7/Ahitch26csmall.jpg/revision/latest?cb=20140421222901",
+  "photo":"http://images.performgroup.com/di/library/sporting_news/50/76/ty-detmer-122315-getty-ftr_ho6kdlgzsqks1ozqyh1lz1is5.jpg?t=-779775255",
   "scores":[
     "5",
     "5",
@@ -36,7 +36,7 @@ var friendArray = [
 },
 {
   "name":"Kim Jong un",
-  "photo":"http://www.sciencebuzz.org/sites/default/files/images/white%20mouse.jpg",
+  "photo":"http://i2.cdn.cnn.com/cnnnext/dam/assets/170922102439-kim-jong-un-september-exlarge-169.jpg",
   "scores":[
     "1",
     "1",
